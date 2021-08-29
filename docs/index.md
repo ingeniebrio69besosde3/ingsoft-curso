@@ -9,5 +9,5 @@
 &nbsp;
 # Presentación
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+- **Nombre**: Aguilera Terrazas Francisco Javier 
+- **Correo**: 316350536@pcpuma.acatlan.unam.mx
