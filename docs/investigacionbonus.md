@@ -1,4 +1,4 @@
-# Actividad (Bonus): Metodologías ágiles.
+# Investigación (Bonus): Metodologías ágiles.
 
 <br>
 

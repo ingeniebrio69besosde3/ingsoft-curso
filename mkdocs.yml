@@ -12,8 +12,7 @@ extra_css:
 nav:
     - Individuales:
         - Investigación (Bonus): investigacionbonus.md
-        - Actividad 1: todo.md
-        - Actividad 2: todo.md
+        - Investigación 1: Investigacion1.md
     - Colaborativas:
         - Actividad 1: todo.md
 copyright: ©GMDXX
