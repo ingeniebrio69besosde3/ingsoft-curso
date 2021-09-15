@@ -1,7 +1,7 @@
 # ¿Qué es un diagrama de Gantt? 
 <br>
 
-Un diagrama de Gantt es una herramienta utilizada para planificar proyectos. En este diagrama se muestran las diferentes actividades que deben realizar los equipos y las fechas de entrega. <br>
+Un diagrama de Gantt es una herramienta utilizada para planificar proyectos de cualquier tipo. En este diagrama se muestran las diferentes actividades que deben realizar los equipos y las fechas de entrega. <br>
 
 in diagrama de Gantt debe mostrar los siguientes elementos:
 
